@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://TomBener.github.io/</id>
+    <title>TomBen</title>
+    <updated>2019-10-10T13:26:09.236Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://TomBener.github.io/"/>
+    <link rel="self" href="https://TomBener.github.io//atom.xml"/>
+    <subtitle>Victory won’t come to us unless we go to it.</subtitle>
+    <logo>https://TomBener.github.io//images/avatar.png</logo>
+    <icon>https://TomBener.github.io//favicon.ico</icon>
+    <rights>All rights reserved 2019, TomBen</rights>
+    <entry>
+        <title type="html"><![CDATA[写毕业论文的几点建议]]></title>
+        <id>https://TomBener.github.io//post/suggestions-for-writing-thesis</id>
+        <link href="https://TomBener.github.io//post/suggestions-for-writing-thesis">
+        </link>
+        <updated>2019-10-06T11:00:39.000Z</updated>
+        <summary type="html"><![CDATA[<p>猝不及防的，该写毕业论文了。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>猝不及防的，该写毕业论文了。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「走亲戚」有感]]></title>
+        <id>https://TomBener.github.io//post/zou-qin-qi-you-gan</id>
+        <link href="https://TomBener.github.io//post/zou-qin-qi-you-gan">
+        </link>
+        <updated>2019-09-01T08:02:34.000Z</updated>
+        <summary type="html"><![CDATA[<p>开学前的一次「走亲戚」。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>开学前的一次「走亲戚」。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[忽悠人这件事，人类和互联网谁更厉害？]]></title>
+        <id>https://TomBener.github.io//post/hu-you-ren-zhe-jian-shi-ren-lei-he-hu-lian-wang-shui-geng-li-hai</id>
+        <link href="https://TomBener.github.io//post/hu-you-ren-zhe-jian-shi-ren-lei-he-hu-lian-wang-shui-geng-li-hai">
+        </link>
+        <updated>2019-08-07T05:48:40.000Z</updated>
+        <summary type="html"><![CDATA[<p>It's Code-free This Time.</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>It's Code-free This Time.</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[鼹鼠、土拨鼠和猫头鹰]]></title>
+        <id>https://TomBener.github.io//post/yan-shu-tu-bo-shu-he-mao-tou-ying</id>
+        <link href="https://TomBener.github.io//post/yan-shu-tu-bo-shu-he-mao-tou-ying">
+        </link>
+        <updated>2019-07-22T06:52:36.000Z</updated>
+        <summary type="html"><![CDATA[<p>用 TikZlings 画萌萌哒的页码。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>用 TikZlings 画萌萌哒的页码。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小鱼洞之行]]></title>
+        <id>https://TomBener.github.io//post/xiao-yu-dong-zhi-xing</id>
+        <link href="https://TomBener.github.io//post/xiao-yu-dong-zhi-xing">
+        </link>
+        <updated>2019-07-13T07:42:38.000Z</updated>
+        <summary type="html"><![CDATA[<p>记一次调研之行。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>记一次调研之行。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生命不息 折腾不止 作死不断]]></title>
+        <id>https://TomBener.github.io//post/sheng-ming-bu-xi-zhe-teng-bu-zhi-zuo-si-bu-duan</id>
+        <link href="https://TomBener.github.io//post/sheng-ming-bu-xi-zhe-teng-bu-zhi-zuo-si-bu-duan">
+        </link>
+        <updated>2019-07-10T10:12:20.000Z</updated>
+        <summary type="html"><![CDATA[<p>一次作死的折腾，记录一下，防止以后我忘记了 🌚</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>一次作死的折腾，记录一下，防止以后我忘记了 🌚</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在线网站整理]]></title>
+        <id>https://TomBener.github.io//post/website</id>
+        <link href="https://TomBener.github.io//post/website">
+        </link>
+        <updated>2019-06-29T02:07:06.000Z</updated>
+        <summary type="html"><![CDATA[<p>有用或无用的网站，不定期更新中，分类有点乱......</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>有用或无用的网站，不定期更新中，分类有点乱......</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TeX Logo]]></title>
+        <id>https://TomBener.github.io//post/tex-logo</id>
+        <link href="https://TomBener.github.io//post/tex-logo">
+        </link>
+        <updated>2019-05-29T12:54:47.000Z</updated>
+        <summary type="html"><![CDATA[<p>Some Logos of TeX</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>Some Logos of TeX</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[几张图片]]></title>
+        <id>https://TomBener.github.io//post/images20190430</id>
+        <link href="https://TomBener.github.io//post/images20190430">
+        </link>
+        <updated>2019-04-30T12:11:21.000Z</updated>
+        <summary type="html"><![CDATA[<p>几张图片</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>几张图片</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2019 年 4 月 20 日]]></title>
+        <id>https://TomBener.github.io//post/20190420</id>
+        <link href="https://TomBener.github.io//post/20190420">
+        </link>
+        <updated>2019-04-20T00:06:38.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏这是摘要</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏这是摘要</p>
+]]></content>
+    </entry>
+</feed>
